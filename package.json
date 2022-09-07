@@ -1,6 +1,6 @@
 {
 	"homepage": "https://IssaIbrahimMoubarak.github.io/cv",
-	"name": "react-cv",
+	"name": "cv",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
